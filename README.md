@@ -1,4 +1,4 @@
-# Repository for Information Retreival Projects
+# Information Retreival Projects
 ## Help
 #### Bugs, Feature requests
 Found a bug? Something that's missing? Feedback is an important part of improving the project, so please [open an issue](https://github.com/adibalwani/information-retrieval/issues).
