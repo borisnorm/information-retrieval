@@ -1,0 +1,113 @@
+------------------------------------------------------------------------
+---------------------------- Output ------------------------------------
+------------------------------------------------------------------------
+
+------------------------- Output File Location -------------------------
+
+Can be found in Output folder
+
+------------------------- Output for Instruction 1 -------------------------
+
+The following considers input file as assignment_inlinks(the given 6 node graph):
+
+File Format:
+(For all pages)
+Page <space> PageRank
+
+Q1_1 --> A list of PageRank values obtained for 1 iteration of the PageRank algorithm
+Q1_10 --> A list of PageRank values obtained for 10 iteration of the PageRank algorithm
+Q1_100 --> A list of PageRank values obtained for 100 iteration of the PageRank algorithm
+
+------------------------- Output for Instruction 2 -------------------------
+
+The following considers input file as wt2g_inlinks(the downloaded file):
+
+File Format:
+(For all pagerank iteration until convergence)
+Perplexity
+
+Q2 --> A list of Perplexity value obtained in each round until convergence is obtained
+
+------------------------- Output for Instruction 3 -------------------------
+
+The following considers input file as wt2g_inlinks(the downloaded file):
+
+File Format:
+(For all top 50 pagerank)
+Page <space> PageRank
+Q3_1 --> A list of top 50 pages along with PageRank sorted by PageRank
+
+File Format:
+(For all top 50 in-links)
+Page <space> InlinkCount
+Q3_2 --> A list of top 50 pages along with in-link count sorted by in-link count
+
+Total Pages: 183811
+
+Total Sources: 14350
+Proportion of pages with no in-links (sources) --> 14350 : 183811
+
+Total Sinks: 66175
+Proportion of pages with no out-links (sinks) --> 66175 : 183811
+
+Total Decreased PageRank: 144318
+Proportion of pages whose PageRank is less than their initial, uniform values --> 144318 : 183811
+
+------------------------- Output for Instruction 4 -------------------------
+
+The following considers input file as wt2g_inlinks(the downloaded file):
+
+Top 10 pages by PageRank:
+WT21-B37-76 0.002694474415548877
+WT21-B37-75 0.0015331790999983856
+WT25-B39-116 0.001468501416325844
+WT23-B21-53 0.0013735249384257465
+WT24-B26-10 0.0012761567441301838
+WT24-B40-171 0.0012452932176087916
+WT23-B39-340 0.0012429131583240457
+WT23-B37-134 0.001205421411225976
+WT08-B18-400 0.0011447772878379362
+WT13-B06-284 0.001136558005311974
+
+Top 10 pages by Inlink count:
+WT21-B37-76 2568
+WT21-B37-75 1704
+WT01-B18-225 1137
+WT08-B19-222 1041
+WT08-B18-400 990
+WT21-B40-447 779
+WT27-B34-57 630
+WT27-B32-30 628
+WT25-B15-307 605
+WT27-B28-203 589
+
+PageRank has the ability to distinguish between popular pages (those with many incoming links,
+or those that have links from popular pages) and unpopular ones.
+
+If PageRank had no "Surprise Me" button i.e. damping factor, then the page rank would solely 
+depend on number of inlinks to a page. Although, this is quite effective, it is very 
+susceptible to spam. To avoid this problem along with dangling pointers, sink node or loop, we 
+introduce Damping Factor. It is because of this factor that in-link count is not the sole factor. 
+So, we obtain pages that have less in-link count but more page rank.
+
+It depends upon the user perspective if he would want to see the returned response to an appropriate query.
+Result quality would be proportional to how happy the user is.
+
+Examples:
+The copyright page WT21-B37-75 for Economist will not be useful for majority of the users.
+Similarly, the disclaimer page WT08-B18-400 for TD Bank will not be useful for majority of the users.
+Likewise, the credits page WT13-B06-284 for Legal Research Center will not 
+be useful for majority of the users.
+The page rank of these pages is high because it has very high number of inlinks 
+and the most popular pages point to it. (Notice high in-links count for WT21-B37-75)
+
+On the other hand, The Economist HomePage WT21-B37-76 is useful to majority of the 
+users and has the highest page rank (Has the maximum number of inlinks)
+
+The Psychiatry Star for University WT24-B26-10 is useful to very specific users and has high page rank
+
+As you can see Pagerank follows links, and links tend to point to popular pages. So, we expect that it will 
+end up at a university website (University of Michigan) more often than a personal website, 
+but less often than the News website (Economist)
+
+PageRank is an important example of query-independent meta-data that can improve ranking for web search
