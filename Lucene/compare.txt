@@ -1,0 +1,19 @@
+Comparison for the total number of matches in HW3 and HW4:
+
+-------------------------------------------------------------------------------
+          HW4                          |                   HW3
+-------------------------------------------------------------------------------
+                                       |
+1. Query: portable operating systems   | Query: portabl oper system
+   Hits: 440                  	       | Hits: 871
+                                       |
+2. Query: code optimization for        | Query: code optim for space effici 
+          space efficiency             |
+   Hits: 1579                 	       | Hits: 1632
+                                       |
+3. Query: parallel algorithms          | Query: parallel algorithm
+   Hits: 272            	       | Hits: 1386
+                                       |
+4. Query: parallel processor in        | Query: parallel processor in inform 
+          information retrieval        |        retriev
+   Hits: 1529                	       | Hits: 1540

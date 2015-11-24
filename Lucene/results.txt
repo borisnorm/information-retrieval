@@ -1,0 +1,808 @@
+Found 100 results for "portable operating systems"
+1. CACM-3127.html 1.1755296
+        Thoth, a <B>Portable</B> Real-Time <B>Operating</B> System     Thoth isa real-time <B>operating</B> system which
+2. CACM-1461.html 0.50642985
+        Discussion Summary on <B>Operating</B> <B>Systems</B>    CACM March, 1966    CA660311 JB March
+3. CACM-3068.html 0.40902123
+        A Model for Verification of Data Security in <B>Operating</B> <B>Systems</B>    Program verification
+4. CACM-2246.html 0.3299833
+        Levels of Language for <B>Portable</B> Software    An increasing amount of software is being
+5. CACM-2111.html 0.3230007
+ efficiently  incorporating spelling correction algorithms in  to compilers and <B>operating</B> <B>systems</B>
+6. CACM-2069.html 0.31651866
+ strategies,  <B>operating</B> <B>systems</B>, memory management    2.44 4.32 4.39 6.20 6.21    CA700415 JB February
+7. CACM-2319.html 0.30766326
+ <B>systems</B>.    CACM July, 1972    Lynch, W. C.    computer system, <B>operating</B> system, performance
+8. CACM-2740.html 0.30766326
+ Dijkstra's hierarchical structuring  of <B>operating</B> <B>systems</B>.  The project management   and the
+9. CACM-1462.html 0.28890023
+        Multilevel <B>Operating</B> <B>Systems</B>    The Basic software for all newer computers  is built on the
+10. CACM-1728.html 0.28890023
+ <B>systems</B>, single-level   storage, one-level storage, <B>operating</B> system simulation,  <B>operating</B> <B>systems</B>
+11. CACM-2597.html 0.28045723
+ writers.    CACM October, 1974    Hoare, C. A. R.    monitors, <B>operating</B> <B>systems</B>, scheduling, mutual
+12. CACM-2629.html 0.28045723
+ number of features seldom found even in larger   <B>operating</B> <B>systems</B>, including: (1) a hierarchical file
+13. CACM-1750.html 0.2741132
+.    multiple computer <B>systems</B>, extended core storage,  multiprogrammed <B>operating</B> <B>systems</B>
+14. CACM-2372.html 0.26916727
+ security   system implementation within today's languages and <B>operating</B> <B>systems</B>.    CACM April
+15. CACM-1247.html 0.26857498
+        An <B>Operating</B> Environment for Dynamic-Recursive  Computer Programming <B>Systems</B>    Presented
+16. CACM-2080.html 0.26857498
+ structure of a multiprogramming system   that can be extended with a hierarchy of <B>operating</B> <B>systems</B> to suit
+17. CACM-2482.html 0.26857498
+, 1973    Howard, J. H. Jr.    deadlocks, resource allocation, <B>operating</B> <B>systems</B>,  multiprogramming, hierarchical
+18. CACM-2867.html 0.26857498
+        Modularization and Hierarchy in a Family of <B>Operating</B> <B>Systems</B>    This paper describes the
+19. CACM-2379.html 0.26133278
+.    <B>operating</B> <B>systems</B>, system design, levels of abstraction,  machine architecture, microprogramming
+20. CACM-1923.html 0.25321493
+ language processors.    CACM March, 1969    Rosin, R. F.    <B>operating</B> <B>systems</B>, interfaces input
+21. CACM-1680.html 0.24681911
+, simulation, modeling, information   retrieval <B>operating</B> <B>systems</B>, graphics, displays, man-machine
+22. CACM-2840.html 0.24135262
+        Protection in <B>Operating</B> <B>Systems</B>    A model of protection mechanisms in computing  <B>systems</B>
+23. CACM-3025.html 0.24135262
+  from the PDP-6 (circa 1963) over five generations   of implementations to presently include <B>systems</B>
+24. CACM-2621.html 0.23838985
+, G. B.    <B>operating</B> <B>systems</B>, time sharing <B>systems</B>, security, cryptography    4.35    CA740803 JB
+25. CACM-2378.html 0.23371433
+ of the advantages of this approach.    CACM March, 1972    Gaines, R. S.    <B>operating</B> <B>systems</B>
+26. CACM-2541.html 0.23371433
+   of hierarchical subsystems.  It also suggested an important  new concept for <B>operating</B> <B>systems</B>
+27. CACM-2632.html 0.23371433
+        HYDRA: The Kernel of a Multiprocessor <B>Operating</B> System    This paper describes the design
+28. CACM-1747.html 0.23342077
+ equipment,   input equipment design, <B>operating</B> <B>systems</B>, <B>operating</B>  <B>systems</B> design, multiprogramming
+29. CACM-2317.html 0.23112017
+, 1972    Rosen, S.    languages, <B>operating</B> <B>systems</B>, programming  <B>systems</B>, multiprogramming, history
+30. CACM-2424.html 0.22735322
+.    <B>operating</B> <B>systems</B>, data security, fault tolerance,  software reliability, data privacy, program
+31. CACM-2138.html 0.22647284
+ a  specific machine (the PDP-10): compilers, <B>operating</B>   <B>systems</B>, etc.  Prime design goals of the
+32. CACM-2151.html 0.22647284
+.  Rovner, P. D.    <B>operating</B> <B>systems</B>, multiprogramming <B>systems</B>, time-sharing  <B>systems</B>, software
+33. CACM-1751.html 0.2238125
+ <B>operating</B> system concepts, multiprocessing,  multiprogramming, <B>operating</B> <B>systems</B>, program
+34. CACM-2320.html 0.2238125
+ safe to use not only within  <B>operating</B> <B>systems</B> but also within user programs.    CACM July
+35. CACM-2950.html 0.2238125
+ abstract model provides  a framework for implementing flexible schedulers   in real <B>operating</B> <B>systems</B>
+36. CACM-3196.html 0.22226858
+ case  is preferred. The reactive typewriter should be <B>portable</B>. the reactive   typewriter should
+37. CACM-3174.html 0.22156307
+  extreme security and ease of use.    CACM November, 1979    Morris, R.  Thompson, K.    <B>Operating</B>
+38. CACM-1930.html 0.21998885
+        Extremely <B>Portable</B> Random Number Generator    Extremely <B>portable</B> subroutines are sometimes
+39. CACM-1226.html 0.21734169
+ critical to the system's <B>operating</B> efficiency.    This paper provides the <B>systems</B> designer with an
+40. CACM-3141.html 0.21734169
+ algorithms, distributed <B>systems</B>, <B>operating</B> <B>systems</B>    4.32 4.35 5.25 5.32    CA790502 DH June
+41. CACM-1324.html 0.21344522
+ question-answering  <B>systems</B> which are programmed and <B>operating</B>   are described and reviewed.  The
+42. CACM-1951.html 0.21344522
+,  <B>operating</B> <B>systems</B>, optimization models    3.80 3.81 6.20    CA701212 JB February 9, 1978  2:46 PM    1533 4 1951  1604 4 1951  1951 4 1951  1951 4 1951  2373 4 1951  2667 4 1951  2668
+43. CACM-2522.html 0.21344522
+, scheduler, time-sharing  <B>systems</B>, resource allocation, software evaluation,   <B>operating</B> <B>systems</B>
+44. CACM-1236.html 0.20095375
+ retrieval system  <B>operating</B> on the IBM 7094 is described.  The system   is characterized by the
+45. CACM-1752.html 0.20095375
+, 1968    Oppenheimer, G.  Weizer, N.    time-sharing, <B>operating</B> <B>systems</B>, resource management,  task
+46. CACM-2777.html 0.20095375
+ suggested by Patil.    CACM March, 1975    Parnas, D. L.    <B>operating</B> <B>systems</B>, co-<B>operating</B>
+47. CACM-0322.html 0.1986582
+        Operational Compatibility of <B>Systems</B>-CONVENTIONS    The General Standards Committee of the
+48. CACM-2624.html 0.1986582
+ <B>systems</B> have been implemented  on a limited number of third generation computer   <B>systems</B>, e.g. CP
+49. CACM-3026.html 0.1986582
+    The 1100 series <B>systems</B> are Sperry Univac's  large-scale main frame computer <B>systems</B>.  Beginning
+50. CACM-2358.html 0.1930821
+ <B>operating</B>  <B>systems</B> has grown, the need to share information   among system users has become increasingly
+51. CACM-2374.html 0.18991122
+ dynamic storage partitioning  procedures are examined for use in multiprogramming   <B>systems</B>.  The
+52. CACM-3137.html 0.18991122
+        A Methodology for the Design of Distributed Information <B>Systems</B>    A macro model of a
+53. CACM-2036.html 0.18111807
+, command languages, pseudo-teletype, interaction,  conditional job control, <B>operating</B> <B>systems</B>
+54. CACM-3028.html 0.18111807
+ design at Manchester University  two <B>systems</B> stand out: the Mark I (developed   over the period
+55. CACM-2184.html 0.160763
+        On the Meaning of Names in Programming <B>Systems</B>    It is assumed that there is a similarity
+56. CACM-2297.html 0.160763
+, demand paging, <B>operating</B> <B>systems</B>  studies, queuing analysis, memory contention,   memory management
+57. CACM-2622.html 0.160763
+ <B>operating</B> <B>systems</B> a user authenticates  himself by entering a secret password   known solely to himself
+58. CACM-1892.html 0.15892656
+, <B>operating</B> <B>systems</B>, memory management    2.44 4.32 4.39 6.20 6.21    CA690601 JB February
+59. CACM-2625.html 0.15892656
+, <B>operating</B> <B>systems</B>, computer  utility, segmentation, tagged architecture    4.30 4.32 4.34 6.21    CA
+60. CACM-0696.html 0.15825933
+ system includes over 200 remote Input  Stations which collect and transmit Company <B>operating</B>   data
+61. CACM-1647.html 0.15825933
+ compiler  which has been implemented within the IBM 7040/44   <B>operating</B> system.  FORTRAN IV was
+62. CACM-2095.html 0.15825933
+ <B>operating</B> con  ditions on a computer system which utilizes variable sized segments  (the Burroughs B
+63. CACM-2582.html 0.15825933
+ improvement  via restructuring is described.  The method   is particularly suited to those <B>systems</B> where
+64. CACM-2972.html 0.15825933
+ method can be applied to large programs, such as <B>operating</B> <B>systems</B>.    CACM April, 1977    Robinson, L
+65. CACM-3006.html 0.15825933
+ which may  occur in paged virtual memory <B>operating</B> <B>systems</B>   a redefined.  One type of anomaly, for
+66. CACM-3050.html 0.15825933
+        <B>Systems</B> Design Education: A Gaming Approach    One of the problems facing managers of
+67. CACM-3105.html 0.15825933
+ information is needed and  desirable for many applications and is supported   in <B>operating</B> <B>systems</B> by
+68. CACM-1069.html 0.14430283
+        A Method for Comparing the Internal <B>Operating</B> Speeds of Computers    CACM May
+69. CACM-1755.html 0.14430283
+        Proceedings of the ACM Symposium on <B>Operating</B> system Principles    CACM May, 1968    ACM
+70. CACM-2796.html 0.14430283
+        Monitors: An <B>Operating</B> System Structuring Concept (Corrigendum)    CACM February
+71. CACM-1517.html 0.12660746
+ itself to the problem of  analyzing data generated by computer simulations   of economic <B>systems</B>.  We
+72. CACM-1810.html 0.12660746
+ performs satisfactorily under the conditions tested,  even though it is <B>operating</B> across a memory-to
+73. CACM-1854.html 0.12660746
+ perspicuous manner.  It is intended to serve as  a basis for the construction of <B>operating</B> <B>systems</B>
+74. CACM-1877.html 0.12660746
+        Prevention of System Deadlocks    A well-known problem in the design of <B>operating</B>  <B>systems</B>
+75. CACM-2342.html 0.12660746
+,   <B>operating</B> <B>systems</B>, parallel processes    4.0 4.10 4.30 4.32 4.42 5.24 6.20    CA720603 JB January
+76. CACM-2535.html 0.12660746
+ algorithms, <B>operating</B> <B>systems</B>    3.80 3.81 6.20    CA730304 JB January 24, 1978  11:13 AM    2535 5 2535  2535 5 2535  2535 5 2535        
+77. CACM-2542.html 0.12660746
+, 1973    Graham, R. M.  Clancy, G. J. Jr.  DeVaney, D. B.    <B>operating</B> system development, language processing
+78. CACM-2849.html 0.12660746
+ <B>systems</B> which can be viewed as either local  computer networks or loosely coupled multiprocessors.    An
+79. CACM-3002.html 0.12660746
+   one; several types of file <B>systems</B> may be derived from  it by an appropriate selection of its
+80. CACM-1050.html 0.10307345
+ proposed  and discussed.  Implementation facts are presented   on <B>operating</B> program using these
+81. CACM-1472.html 0.10203751
+ <B>operating</B> system for the UNIVAC 1107 at Case  Institute is reviewed.  The system is of interest   because
+82. CACM-1591.html 0.092191696
+ incorporated  into an <B>operating</B> system of a large computer   is described.  The model transferred control to
+83. CACM-2357.html 0.08926423
+        MUX, a Simple Approach to On-Line Computing    An on-line system <B>operating</B> as part of a
+84. CACM-2868.html 0.08926423
+        Reflections on an <B>Operating</B> System Design    The main features of a general purpose
+85. CACM-2920.html 0.08926423
+, resources, <B>operating</B>  system, etc., of the "safe situations" which   may be realized without
+86. CACM-0018.html 0.08829741
+        Simple Automatic Coding <B>Systems</B>    CACM July, 1958    Adams, E. S.  Schlesinger, S. I
+87. CACM-0025.html 0.08829741
+        General Purpose Programming <B>Systems</B>    CACM May, 1958    Holt, A. W.    CA580503 JB March
+88. CACM-0597.html 0.08829741
+        Modular Data Processing <B>Systems</B> Written in COBOL    CACM May, 1962    Emery, J. C.    CA
+89. CACM-0652.html 0.08829741
+        Use of Semantic Structure in Information <B>Systems</B>    CACM January, 1962    Sable, J. D
+90. CACM-1360.html 0.08829741
+        Description of <B>Systems</B> Used for Data Transmission* (An ASA Tutorial)    CACM October
+91. CACM-1464.html 0.08746072
+        An ALGOL Compiler: Construction and Use  in Relation to an Elaborate <B>Operating</B> System    An
+92. CACM-2311.html 0.08637957
+, management data processing, hardware  <B>systems</B>, software <B>systems</B>, <B>systems</B> development   process
+93. CACM-2407.html 0.08637957
+        Curriculum Recommendations for Undergraduate  Programs in Information <B>Systems</B>    The need
+94. CACM-2345.html 0.08110635
+        Curriculum Recommendations for Graduate  Professional Programs in Information <B>Systems</B>
+95. CACM-2583.html 0.07804462
+        Guidelines for Humanizing Computerized Information  <B>Systems</B>: A Report from Stanley House
+96. CACM-0238.html 0.07726023
+        Simulation and Analysis of Biochemical <B>Systems</B>    CACM December, 1961    Garfinkel, D
+97. CACM-0651.html 0.07726023
+        A Survey of Languages and <B>Systems</B> for Information Retrieval    CACM January, 1962    Grems
+98. CACM-0795.html 0.07726023
+        Debugging <B>Systems</B> at the Source Language Level    CACM August, 1963    Ferguson, H. E
+99. CACM-1912.html 0.07726023
+        Simulation of Outpatient Appointment <B>Systems</B>    An experimental computer program is
+100. CACM-2690.html 0.07726023
+        A Numbering <B>Systems</B> for Combinations    CACM January, 1974    Knott, G. D.    combinatorics
+
+Found 100 results for "code optimization for space efficiency"
+1. CACM-1795.html 0.64332205
+        Optimal <B>Code</B> <B>for</B> Serial and Parallel Computation    CACM December, 1969    Fateman, R. J
+2. CACM-2495.html 0.5975083
+        Adapting Optimal <B>Code</B> Generation <B>for</B> Arithmetic  Expressions to the Instruction Sets
+3. CACM-1947.html 0.5535952
+        Object <B>code</B> <B>Optimization</B>    Methods of analyzing the control flow and data  flow of
+4. CACM-2748.html 0.528035
+        Indirect Threaded <B>Code</B>    An efficient arrangement <B>for</B> interpretive <B>code</B>  is described.  It
+5. CACM-2559.html 0.4950907
+        The Reallocation of Hash-Coded Tables    When the <B>space</B> allocation <B>for</B> a hash-coded table
+6. CACM-1886.html 0.44647112
+ which are to be  compiled, methods are presented <B>for</B> increasing the   <B>efficiency</B> of the object <B>code</B>
+7. CACM-2897.html 0.43843484
+        A Case Study of a New <B>Code</B> Generation Technique <B>for</B> Compilers    Recent developments in
+8. CACM-2904.html 0.38659886
+ November, 1977    Cocke, J.    compilers, <B>optimization</B> of compiled <B>code</B>, program analysis,  operator
+9. CACM-3080.html 0.38377044
+        Proving the Correctness of Heuristically Optimized <B>Code</B>     A system <B>for</B> proving that
+10. CACM-2491.html 0.37791464
+.    CACM June, 1973    Bell, J. R.    interpreter, machine <B>code</B>, time tradeoff, <B>space</B>  tradeoff, compiled
+11. CACM-2680.html 0.3617208
+        Optimal <B>Space</B> Allocation on Disk Storage Devices    When the amount of <B>space</B> required <B>for</B>
+12. CACM-2537.html 0.3568571
+        Common Phrases and Minimum-<B>Space</B> Text Storage    A method <B>for</B> saving storage <B>space</B> <B>for</B> text
+13. CACM-3171.html 0.34712863
+        Line Numbers Made Cheap    A technique is described <B>for</B> run-time line number administration
+14. CACM-2464.html 0.3463252
+        The Complex Method <B>for</B> Constrained <B>Optimization</B> [E4] (Algorithm A454)    CACM August
+15. CACM-1195.html 0.33868977
+ has been developed  and is now operational <B>for</B> processing the   National Aeronautics and <B>Space</B>
+16. CACM-2253.html 0.32735753
+ <B>optimization</B>  by transforming the original algorithm   rather than the machine <B>code</B>.  The goal is to
+17. CACM-2944.html 0.3262091
+   used to find actions that cancel when the <B>code</B> is executed  and those that can be grouped to achieve
+18. CACM-2929.html 0.31939238
+        An Analysis of Inline Substitution <B>for</B> a Structured Programming Language    An <B>optimization</B>
+19. CACM-1655.html 0.30841085
+        <B>Code</B> Extension Procedures <B>for</B> Information  Interchange* (Proposed USA Standard)    CACM
+20. CACM-2716.html 0.28945735
+ minimize query   response time and <B>space</B> utilization by: (1) performing  global query <B>optimization</B>
+21. CACM-1564.html 0.2743894
+ outputting the <B>code</B> as it is generated,  a line at a time.  The only <B>optimization</B>   attempted is the
+22. CACM-2423.html 0.2743894
+        A Parser-Generating System <B>for</B> Constructing Compressed Compilers    This paper describes a
+23. CACM-2374.html 0.27298835
+ dynamic storage partitioning  procedures are examined <B>for</B> use in multiprogramming   systems.  The
+24. CACM-3005.html 0.26183242
+        Implications of Structured Programming <B>for</B> Machine Architecture    Based on an empirical
+25. CACM-2033.html 0.26124457
+        <B>Space</B>/Time Trade-offs in Hash Coding with Allowable Errors    In this paper trade-offs
+26. CACM-1651.html 0.24911706
+ suited <B>for</B> bulk data handling than  the input <B>code</B> described.  From a user's standpoint,   input
+27. CACM-2611.html 0.24534898
+        The Complex Method <B>for</B> Constrained <B>Optimization</B> (Algorithm R454)    CACM August
+28. CACM-2858.html 0.24334013
+        A Process <B>for</B> the Determination of  Addresses in Variable Length Addressing    An algorithm
+29. CACM-3053.html 0.24334013
+        Packed Scatter Tables    Scatter tables <B>for</B> open addressing benefit  from recursive entry
+30. CACM-3054.html 0.24068223
+  various <B>code</B> <B>optimization</B> techniques.  A detailed   implementation combining the most effective
+31. CACM-0267.html 0.24038294
+        Some Proposals <B>for</B> Improving the <B>Efficiency</B> of ALGOL 60    CACM November, 1961    Wilkes, M
+32. CACM-0230.html 0.23872676
+        A Proposal <B>for</B> Character <B>Code</B> Compatibility    CACM February, 1960    Bemer, R. W.    CA
+33. CACM-0797.html 0.23872676
+        American Standard <B>Code</B> <B>for</B> Information Interchange    CACM August, 1963    CA630801 JB
+34. CACM-1064.html 0.23872676
+        Perforated Tape <B>Code</B> <B>for</B> Information  Interchange (Proposed American Standard)    CACM June
+35. CACM-1289.html 0.23872676
+        Proposed Revised American Standard <B>Code</B> <B>for</B> Information Interchange    CACM April
+36. CACM-2856.html 0.23869252
+ or storage <B>space</B>, <B>for</B>  example) is located only through implicit enumeration   of all possible
+37. CACM-2433.html 0.23437612
+ language  provides a means of expressing data and control   structures suitable <B>for</B> exploiting ILLIAC
+38. CACM-1234.html 0.23171572
+-time stack  enables the generation of <B>code</B> <B>for</B> expressions   which minimizes stores, fetches and
+39. CACM-2701.html 0.22340249
+ flow, <B>code</B> <B>optimization</B>,  common subexpression elimination, live-dead   analysis, information
+40. CACM-1901.html 0.22280307
+        Dynamic <B>Space</B>-Sharing in Computer Systems    A formalization of relationships between <B>space</B>
+41. CACM-0066.html 0.22071782
+        A Proposal <B>for</B> a Generalized Card <B>Code</B> <B>for</B> 256 Characters    CACM September, 1959    Bemer
+42. CACM-1757.html 0.21100664
+        Data <B>Code</B> <B>for</B> Calendar Date <B>for</B> Machine-to-Machine  Data Interchange* (Proposed USA
+43. CACM-1542.html 0.2106169
+ processing system <B>for</B> the algorithmic  language EULER has been implemented in   microprogramming on an
+44. CACM-2133.html 0.21029912
+        Algorithm <B>for</B> the Assignment Problem  (Rectangular Matrices) [H] (Algorithm 415)    CACM
+45. CACM-1275.html 0.20888591
+        <B>Code</B> Structures <B>for</B> Protection and Manipulation  of Variable Length Items (Corrigendum
+46. CACM-1414.html 0.20888591
+        Twelve-Row Punched-Card <B>Code</B> <B>for</B> Information  Interchange* (Proposed American Standard
+47. CACM-2835.html 0.20701885
+        Recursion Analysis <B>for</B> Compiler <B>Optimization</B>    A relatively simple method <B>for</B> the
+48. CACM-0149.html 0.20604253
+        A Decision Rule <B>for</B> Improved <B>Efficiency</B> in Solving  Linear Programming Problems with the
+49. CACM-1670.html 0.20255528
+        Correspondences of 8-Bit and Hollerith Codes <B>for</B>  Computer Environments (A USASI Tutorial
+50. CACM-1992.html 0.20255528
+        Comment on Bell's Quadratic Quotient Method <B>for</B> Hash <B>Code</B> Searching    CACM September
+51. CACM-2722.html 0.19925252
+ <B>space</B>) as a data structure <B>for</B> storage of  information to be retrieved by associative searches
+52. CACM-2745.html 0.19869836
+        A Linear <B>Space</B> Algorithm <B>for</B> Computing Maximal Common Subsequences    The problem of
+53. CACM-2734.html 0.19712423
+ efficiencies of first-fit and   best-fit were generally within 1 to 3 percent of each  other.  Except <B>for</B>
+54. CACM-2530.html 0.18242602
+        An Algorithm <B>for</B> Extracting Phrases in  a <B>Space</B>-Optimal Fashion [Z] (Algorithm A
+55. CACM-3129.html 0.17914577
+ <B>for</B> record addition. Whenever one   file runs out of <B>space</B>, the system must be reorganized.  This
+56. CACM-1065.html 0.17904507
+        Bit Sequencing of the American Standard <B>Code</B> <B>for</B>  Information Interchange (ASCII) in Serial
+57. CACM-2586.html 0.17904507
+        Adapting Optimal <B>Code</B> Generation <B>for</B> Arithmetic  Expressions to the Instruction Sets
+58. CACM-0048.html 0.17705749
+        Shift-Register <B>Code</B> <B>for</B> Indexing Applications    In this communication the use of a shift
+59. CACM-1362.html 0.17705749
+        <B>Code</B> Extension in ASCII* (An ASA Tutorial)    The American Standard <B>Code</B> <B>for</B> Information
+60. CACM-2711.html 0.1756262
+        A Vector <B>Space</B> Model <B>for</B> Automatic Indexing    In a document retrieval, or other pattern
+61. CACM-2078.html 0.1752548
+        Representations <B>for</B> <B>Space</B> Planning    Problems involving the arrangement of objects in two
+62. CACM-1807.html 0.17389299
+        <B>Optimization</B> of Expressions in Fortran    A method of optimizing the computation of
+63. CACM-1223.html 0.16849889
+        High Speed Compilation of Efficient Object <B>Code</B>    A three-pass compiler with the following
+64. CACM-1235.html 0.16849351
+ program operates at relatively  high speed in only a limited storage <B>space</B>.    About half of the word
+65. CACM-3083.html 0.16805974
+"  of the first overflow items in the table.  The   <B>efficiency</B> of the method is derived and a
+66. CACM-1369.html 0.16523181
+        Half Rotations in N-Dimensional Euclidean <B>Space</B>    An iterative procedure is described <B>for</B>
+67. CACM-1204.html 0.15765558
+ American   Standard <B>Code</B> <B>for</B> Information Interchange (Proposed American Standard)    CACM September
+68. CACM-2645.html 0.15531684
+        Two Languages <B>for</B> Estimating Program <B>Efficiency</B>    Two languages enabling their users to
+69. CACM-2892.html 0.15143192
+ the line <B>efficiency</B>  <B>for</B> various models of system use is studied.    Some measurements of line
+70. CACM-1708.html 0.14958504
+        A Note on the <B>Efficiency</B> of a LISP Computation in a Paged Machine    The problem of the use
+71. CACM-0093.html 0.14920424
+        From Formulas to Computer Oriented Language    A technique is shown <B>for</B> enabling a computer
+72. CACM-2389.html 0.14902377
+        Preliminary Report on a System <B>for</B> General <B>Space</B> Planning    A computer language and a set
+73. CACM-2863.html 0.14902377
+        VMIN-An Optimal Variable-<B>Space</B> Page Replacement Algorithm    A criterion <B>for</B> comparing
+74. CACM-1652.html 0.14447135
+        A <B>Code</B> <B>for</B> Non-numeric Information Processing  Applications in Online Systems    A <B>code</B> has
+75. CACM-1676.html 0.14430216
+  dependencies and isolates those which are necessary.    A language and a compiler <B>for</B> the language are
+76. CACM-2836.html 0.14363311
+ weighting functions over the vocabulary   of a context-free grammar.  An algorithm is presented  <B>for</B>
+77. CACM-2524.html 0.1414585
+ terms of  a metric on the the key <B>space</B>, is suitably defined,   three file structures are presented
+78. CACM-1465.html 0.14062326
+        Program Translation Viewed as a General Data Processing Problem    <B>Efficiency</B> dictates that
+79. CACM-2126.html 0.13736169
+ described.  The system and its base language are appraised with   respect to <B>efficiency</B>, flexibility
+80. CACM-1523.html 0.13666514
+        SHARER, a Time Sharing System <B>for</B> the CDC 6600    A time sharing system embedded within the
+81. CACM-2230.html 0.13616589
+        A Language <B>for</B> Treating Geometric Patterns in a Two-dimensional <B>space</B>    In this paper
+82. CACM-1331.html 0.13049494
+        <B>Code</B> Structures <B>for</B> Protection and Manipulation of Variable-Length Items    When items are
+83. CACM-2498.html 0.12899466
+        Minimizing Wasted <B>Space</B> in Partitioned Segmentation    A paged virtual memory system using
+84. CACM-0794.html 0.12837844
+ terms of <B>space</B> and  time is proposed <B>for</B> the storage and manipulation   of character strings of
+85. CACM-2344.html 0.12832725
+        On the <B>Optimization</B> of Performance of Time-Sharing Systems by Simulation    A simulation
+86. CACM-2950.html 0.12738775
+.  A  criterion <B>for</B> the implementation <B>efficiency</B> of an   algorithm is developed and results in the
+87. CACM-0124.html 0.12612447
+  discussed.  An efficient algorithm <B>for</B> its   solution is presented in ALGOL <B>code</B>.  An empirical
+88. CACM-1551.html 0.12612447
+        On Compiling Algorithms <B>for</B> Arithmetic Expressions    This paper deals with algorithms
+89. CACM-1270.html 0.12610742
+ <B>for</B>  the computer evaluation of student ALGOL programs.   One is <B>for</B> a beginner's program; it
+90. CACM-1352.html 0.12610742
+        Automatic Integration of a Function with a Parameter    Two efficient methods <B>for</B> automatic
+91. CACM-1429.html 0.12610742
+        Matrix Reduction Using the Hungarian Method  <B>For</B> The Generation of School Timetables    The
+92. CACM-2365.html 0.12610742
+        Matrix Computations with Fortran and Paging    The <B>efficiency</B> of conventional Fortran
+93. CACM-2816.html 0.12418647
+   which allows <B>for</B> distributed free <B>space</B> is described.   A cost function describing the excess costs
+94. CACM-2249.html 0.12392385
+        A Comparison of Multivariate Normal Generators    Three methods <B>for</B> generating outcomes on
+95. CACM-1030.html 0.1231686
+ greatly increased <B>efficiency</B> of a simulation  system, methods are presented <B>for</B> simultaneously
+96. CACM-0693.html 0.12267449
+ Fibonaccian search  concepts has been developed to solve <B>optimization</B>   problems involving unimodal functions
+97. CACM-1786.html 0.121533155
+        An Improved Hash <B>Code</B> <B>for</B> Scatter Storage    Introduced is a hash coding method based on
+98. CACM-3175.html 0.121533155
+.  These probabilities are updated in parallel <B>for</B> all  <B>code</B> letters, using joint letter
+99. CACM-3064.html 0.12141173
+        Event Manipulation <B>for</B> Discrete Simulations  Requiring Large Numbers of Events    The event
+100. CACM-0164.html 0.12103897
+        A Short Study of Notation <B>Efficiency</B>    CACM August, 1960    Smith Jr., H. J.    CA
+
+Found 100 results for "parallel algorithms"
+1. CACM-2973.html 1.0088185
+        Sorting on a Mesh-Connected <B>Parallel</B> Computer    Two <B>algorithms</B> are presented for sorting n
+2. CACM-3075.html 0.9137456
+        Fast <B>Parallel</B> Sorting <B>Algorithms</B>    A <B>parallel</B> bucket-sort algorithm is presented  that
+3. CACM-2557.html 0.8322328
+ time required to evaluate  such products on ordinary serial computers   as well as <B>parallel</B>
+4. CACM-2266.html 0.8261164
+ polynomial deflation used.    CACM November, 1972    Patrick, M. L.    <B>parallel</B> numerical <B>algorithms</B>
+5. CACM-3156.html 0.8261164
+.  Chandra, A.  Sarwate, D.    Graph theory, <B>parallel</B> processing, <B>algorithms</B>,  transitive closure
+6. CACM-1601.html 0.76765776
+        <B>Parallel</B> Numerical Methods for the Solution of Equations    Classical iterative procedures
+7. CACM-0950.html 0.68843037
+ analysis will have to be recast in a more  "<B>parallel</B>" form.  By this is meant that serial   <B>algorithms</B>
+8. CACM-1468.html 0.68843037
+ of pictures based  on labeling techniques using <B>parallel</B> processing   <B>algorithms</B> was proposed by the
+9. CACM-2433.html 0.594452
+ utilize   this storage method and express <B>parallel</B> <B>algorithms</B> are described.    CACM October
+10. CACM-2570.html 0.594452
+        A Comparison of List Schedules for <B>Parallel</B> Processing Systems    The problem of scheduling
+11. CACM-2289.html 0.5686563
+ the improvement in speed  achieved by virtue of the possibilities for <B>parallel</B>   processing.  In this
+12. CACM-1957.html 0.5663724
+ generator is defined and <B>algorithms</B>  for its use are given.  The list set generator is  a construct which
+13. CACM-2838.html 0.5339811
+ collection normally requires  by performing garbage collection on a second   processor in <B>parallel</B> with
+14. CACM-2692.html 0.48292387
+        Reentrant Polygon Clipping    A new family of clipping <B>algorithms</B> is described.   These
+15. CACM-0141.html 0.4730892
+        Some Thoughts on <B>Parallel</B> Processing    CACM October, 1960    Yarbrough, L. D.    CA
+16. CACM-0392.html 0.4730892
+        Comment on A Paper on <B>Parallel</B> Processing    CACM February, 1961    Nekora, M. R.    CA
+17. CACM-1302.html 0.4730892
+        <B>Parallel</B> Signaling Speeds for Data Transmission  (Proposed American Stand ard)    CACM
+18. CACM-2114.html 0.47197703
+ <B>algorithms</B> which retrieve records from the generalized file   structure are presented.    CACM February
+19. CACM-2723.html 0.47197703
+        Multiprocessing Compactifying Garbage Collection    <B>Algorithms</B> for a multiprocessing
+20. CACM-2182.html 0.41395304
+, monitors, debugging, <B>parallel</B>  processing, associative memories, microprogramming
+21. CACM-2685.html 0.40970725
+        The <B>Parallel</B> Execution of DO Loops    Methods are developed for the <B>parallel</B> execution  of
+22. CACM-2714.html 0.39114887
+        Merging with <B>Parallel</B> Processors    Consider two linearly ordered sets A, B, |A|=m,  |B|=n
+23. CACM-2896.html 0.35849383
+        An Exercise in Proving <B>Parallel</B> Programs Correct    A <B>parallel</B> program, Dijkstra's on-the
+24. CACM-1262.html 0.35481688
+        Procedure-Oriented Language Statements to Facilitate <B>Parallel</B> Processing    Two statements
+25. CACM-1367.html 0.35481688
+        Character Structure and Character Parity Sense  for <B>Parallel</B>-by-Bit Data Communication in
+26. CACM-1795.html 0.35481688
+        Optimal Code for Serial and <B>Parallel</B> Computation    CACM December, 1969    Fateman, R. J
+27. CACM-1828.html 0.35481688
+        Synchronization in a <B>Parallel</B>-Accessed Data Base    The following problem is considered
+28. CACM-2700.html 0.35481688
+        Reduction: A Method of Proving Properties of <B>Parallel</B> Programs    When proving that a
+29. CACM-2007.html 0.3525926
+        <B>Algorithms</B> Policy/Revised August 1970    CACM August, 1970    CA700814 JB February
+30. CACM-0371.html 0.34904885
+        Remarks on <B>Algorithms</B> 2 and 3, Algorithm 15 and <B>Algorithms</B> 25 and 26    CACM March
+31. CACM-1158.html 0.33452457
+        Program Structures for <B>Parallel</B> Processing    Constructs for organizing and explicating
+32. CACM-2785.html 0.30728042
+ philosophy of the language, and discusses some  of the problems associated with <B>parallel</B> computer
+33. CACM-1796.html 0.29918474
+        Index by Subject to <B>Algorithms</B>, 1969    CACM December, 1969    This 1969 index is the first
+34. CACM-2952.html 0.29568073
+        Functions Realizable with Word-<B>Parallel</B> Logical  and Two's-Complement Addition Instructions
+35. CACM-2895.html 0.292709
+ behavior  of communicating <B>parallel</B> processes is described.    The specifications are constrain ts on
+36. CACM-1811.html 0.2897068
+        A Case Study in Programming for <B>Parallel</B>-Processors    An affirmative partial answer is
+37. CACM-0270.html 0.28207406
+        Techniques for Storage Allocation <B>Algorithms</B>     CACM October, 1961    Kelley Jr., J. E
+38. CACM-0804.html 0.28207406
+        Exponentiation of Series (<B>Algorithms</B> 134)    CACM July, 1963    Thacher Jr., H. C.    CA
+39. CACM-1342.html 0.28207406
+        Transportation Problem (<B>Algorithms</B> 293 [H])    CACM December, 1966    Bayer, G.    CA
+40. CACM-1660.html 0.28207406
+        Index By Subject To <B>algorithms</B>, 1960-1968    CACM December, 1968    CA681206 JB February
+41. CACM-1952.html 0.28207406
+        Index by Subject to <B>Algorithms</B>, 1970    CACM December, 1970    CA701211 JB February
+42. CACM-2325.html 0.28207406
+ analysis  of continuous <B>algorithms</B>.  Four of the components   of numerical mathematics are discussed
+43. CACM-2342.html 0.2644649
+        Interference Between Communicating <B>Parallel</B> Processes    Various kinds of interference
+44. CACM-2851.html 0.2644649
+        Formal Verification of <B>Parallel</B> Programs    Two formal models for <B>parallel</B> computation  are
+45. CACM-2401.html 0.25606704
+        On Shrinking Binary Picture Patterns    A <B>parallel</B> processing algorithm for shrinking
+46. CACM-2865.html 0.25606704
+        Verifying Properties of <B>Parallel</B> Programs: An Axiomatic Approach    An axiomatic method for
+47. CACM-3059.html 0.25606704
+        Models for <B>Parallel</B> Processing WIthin Programs:  Application to CPU:I/O and I/O:I/O Overlap
+48. CACM-2080.html 0.2508934
+ simulates an environment in which program execution and input/output  are handled uniformly as <B>parallel</B>
+49. CACM-3073.html 0.2508934
+ primitives of programming and that <B>parallel</B>   composition of communicating sequential processes is
+50. CACM-1374.html 0.2468148
+        Evaluation of Determinant; Determinant  Evaluation (<B>Algorithms</B> 41[F3]; 269[F3])    CACM
+51. CACM-1851.html 0.2468148
+        Generator of Spanning Trees (<B>Algorithms</B> 354 [H])    CACM September, 1969    McIlroy, M. D
+52. CACM-1953.html 0.2468148
+        Exponential Integral Ei(x) (<B>Algorithms</B> 385 $S13))    CACM December, 1970    Redish, K. A
+53. CACM-2226.html 0.2468148
+        Further Evidence for the Analysis of <B>Algorithms</B>  for the Zero-One Programming Problem
+54. CACM-2417.html 0.2468148
+        Four Combinatorial <B>Algorithms</B> [G6] (Algorithm A466)    CACM November, 1973    Ehrlich, G
+55. CACM-2725.html 0.2468148
+        A Comparison of Simulation Event List <B>Algorithms</B> (Corrigendum)    CACM August
+56. CACM-2830.html 0.2468148
+        A Practitioner's Guide to Addressing <B>Algorithms</B> (Corrigendum)    CACM September
+57. CACM-1551.html 0.2442833
+        On Compiling <B>Algorithms</B> for Arithmetic Expressions    This paper deals with <B>algorithms</B>
+58. CACM-1569.html 0.2365446
+ and statements <B>parallel</B>  the structure and notation of the grammar.    CACM July, 1967    Irwin, L
+59. CACM-3044.html 0.2365446
+ have different content.    CACM November, 1978    Friedman, D.  Wise, D.    <B>Parallel</B> evaluation
+60. CACM-2884.html 0.23321806
+        Permutation Enumeration: Four New Permutation <B>Algorithms</B>    Classical permutation
+61. CACM-2902.html 0.21591799
+ of  35 dynamic memory allocation <B>algorithms</B> when used   to service simulation programs as
+62. CACM-2950.html 0.21591799
+  scheduling <B>algorithms</B> based on an abstract model   of a scheduling system which formalizes the notion of
+63. CACM-3166.html 0.21591799
+        Computing Standard Deviations: Accuracy    Four <B>algorithms</B> for the numerical computation
+64. CACM-1658.html 0.21155554
+        Analysis of <B>Algorithms</B> for the Zero-One Programming Problem    This paper is concerned with
+65. CACM-2025.html 0.21155554
+ Analysis of Variance; (<B>Algorithms</B> 332,344,351,359)     CACM July, 1970    Sale, A. H. J.    Fortran
+66. CACM-2222.html 0.21155554
+.    proof of <B>algorithms</B>, debugging, certification,  metatheory,  sorting, in-place sorting
+67. CACM-2362.html 0.21155554
+ <B>algorithms</B>, linear equations, Fortran,  paged memory, virtual memory, array processing
+68. CACM-2505.html 0.21155554
+        Reflection-Free Permutations, Rosary Permutations,  and Adjacent Transposition <B>Algorithms</B>
+69. CACM-2863.html 0.21155554
+ variable space page  replacement <B>algorithms</B> is presented.  An optimum   page replacement algorithm
+70. CACM-2942.html 0.21155554
+.    patterns SNOBOL 4, pattern matching, string processing,  pattern implementation, <B>algorithms</B> in
+71. CACM-3061.html 0.21155554
+        Simulations of Dynamic Sequential Search <B>Algorithms</B>    None    CACM September
+72. CACM-2740.html 0.20907786
+ by  means of semaphores and extended semaphores (queue   semaphores).  The number of <B>parallel</B>
+73. CACM-1008.html 0.20697652
+.  The technique  developed for FASEB can be applied to schedule   any meeting with <B>parallel</B>
+74. CACM-1200.html 0.20697652
+ properties are analogous to certain matrix  operations, a <B>parallel</B> nomenclature is suggested   for their
+75. CACM-1380.html 0.20697652
+ concepts  is that of quasi-<B>parallel</B> processing.    CACM September, 1966    Dahl, O. J.  Nygaard, K
+76. CACM-2727.html 0.20697652
+ <B>parallel</B>  processing of packed data items using only ordinary   full-word computer instructions
+77. CACM-1747.html 0.20485362
+ concern the reading of   a time-of-day clock,  the synchronization of <B>parallel</B>  processes, protection in
+78. CACM-1846.html 0.20485362
+        On Simulating Networks of <B>Parallel</B> Processes  in Which Simultaneous Events May Occur
+79. CACM-2175.html 0.20485362
+, in <B>parallel</B>, or in a combination of these  modes.  This paper shows that expression execution
+80. CACM-2195.html 0.20485362
+ the optimization process is then discussed.   The method described is suitable for <B>parallel</B>
+81. CACM-1873.html 0.19945648
+        Accelerating LP <B>Algorithms</B>    It is shown how a novel method for computing  (related) inner
+82. CACM-2272.html 0.19945648
+        Sorting by Natural Selection    A family of sorting <B>algorithms</B> is proposed,  the members of
+83. CACM-1924.html 0.19710524
+ paged memory system.  It is shown that  carefully designed matrix <B>algorithms</B> can lead to   enormous
+84. CACM-2146.html 0.19710524
+        Optimizing the Polyphase Sort    Various dispersion <B>algorithms</B> for the polyphase  sorting
+85. CACM-2273.html 0.19710524
+        Conversion of Decision Tables By Rule Mask Method Without Rule Mask    Two <B>algorithms</B> for
+86. CACM-2283.html 0.19710524
+        Thinning <B>Algorithms</B> on Rectangular, Hexagonal, and Triangular Arrays    In this report
+87. CACM-2903.html 0.19710524
+ transformation,  called "recursion in troduction," is described and   applied to two <B>algorithms</B> which solve
+88. CACM-3006.html 0.19710524
+        Anomalies with Variable Partition Paging <B>Algorithms</B>    Five types of anomalous behavior
+89. CACM-1392.html 0.18321247
+  of mathematical expression manipulation <B>algorithms</B>   are discussed.  Concrete examples are provided
+90. CACM-2490.html 0.18321247
+        Efficient <B>Algorithms</B> for Graph Manipulation [H] (Algorithm A447)    Efficient <B>algorithms</B>
+91. CACM-2679.html 0.18321247
+ are presented  for six ACM <B>algorithms</B>: quicksort (No. 64),   Shellsort (No. 201), stringsort (No
+92. CACM-2997.html 0.18321247
+ presented <B>algorithms</B> use the "divide  and conquer" technique and recursively apply   a merge
+93. CACM-1341.html 0.17740844
+, <B>parallel</B>  programming, and, eventually, systems which learn.    In this essay some of these questions
+94. CACM-1471.html 0.17740844
+ multiprogrammed computer  systems.  These meta-instructions relate to <B>parallel</B>   processing, protection of
+95. CACM-1536.html 0.17740844
+ proceed in  <B>parallel</B>, as in Wengert's procedure, but with the   "imaginary" parts of variables
+96. CACM-1554.html 0.17740844
+-dimensional <B>parallel</B> and perspective  projections of four-dimensional hyperobjects   rotating in four
+97. CACM-1603.html 0.17740844
+ details of input/output timing,  buffering, and task scheduling and provides   <B>parallel</B> processing
+98. CACM-1960.html 0.17740844
+ ability given to any user to schedule his own <B>parallel</B>  processes using system primitive operations
+99. CACM-2376.html 0.17740844
+.    <B>parallel</B> programming, multiprogramming, program correctness,  process communication, process
+100. CACM-2514.html 0.17740844
+ choice  of instance selection schemes (raster,random,   <B>parallel</B>).  Examples are given involving
+
+Found 100 results for "parallel processor in information retrieval"
+1. CACM-2967.html 0.7082254
+.    associative memory, associative <B>processor</B>, content-addressable  memory, graphics, <B>information</B> <B>retrieval</B>
+2. CACM-0634.html 0.5461165
+        Manipulation of Trees <B>in</B> <B>Information</B> <B>Retrieval</B>*    CACM February, 1962    Salton, G.    CA
+3. CACM-2973.html 0.5330611
+ sorting, <B>parallel</B> merge,  routing and comparison steps, perfect shuffle.   <B>processor</B> <B>in</B> terconnection
+4. CACM-1811.html 0.51177335
+ the distribution   of current <B>in</B> an electrical network was written for a  <B>parallel</B>-<B>processor</B>
+5. CACM-0891.html 0.41518122
+        Everyman's <B>Information</B> <B>Retrieval</B> System    The <B>information</B> <B>retrieval</B> problem whose solution
+6. CACM-2530.html 0.40958735
+444)    CACM March, 1973    Wagner, R. A.    <B>information</B> <B>retrieval</B>, coding, text compression    3.70 5.6    CA
+7. CACM-2965.html 0.40958735
+, 1977    Hanani, M. Z.    query, Boolean expression, <B>information</B> <B>retrieval</B>, file organization
+8. CACM-2976.html 0.40958735
+.    database, inverted file organization, database performance  and measurement, <B>information</B> <B>retrieval</B>
+9. CACM-3168.html 0.40958735
+."    CACM October, 1979    Laird, P.    Query, Boolean expression, <B>information</B> <B>retrieval</B>, file organization
+10. CACM-2288.html 0.40007916
+ of an <B>information</B>  <B>retrieval</B> system with a minimal search time   and no redundant storage.  Some
+11. CACM-1927.html 0.38666227
+        <B>Information</B> Science <B>in</B> a Ph. Computer Science Program    This report contains
+12. CACM-2278.html 0.37855646
+        On Foster's <B>Information</B> Storage and <B>Retrieval</B> Using AVL Trees    CACM September
+13. CACM-2838.html 0.35851765
+ collection normally requires  by performing garbage collection on a second   <B>processor</B> <B>in</B> <B>parallel</B> with
+14. CACM-2882.html 0.35653657
+        A Stochastic Evaluation Model for Database  Organization <B>in</B> Data <B>Retrieval</B> Systems
+15. CACM-1457.html 0.35578042
+        Data Manipulation and Programming Problems  <B>in</B> Automatic <B>Information</B> <B>Retrieval</B>    Automatic
+16. CACM-2140.html 0.35020137
+        <B>Retrieval</B>-Update Speed Tradeoffs Using Combined Indices    <B>In</B> a paper <B>in</B> the November
+17. CACM-1699.html 0.34822118
+        Experimental Evaluation of <B>Information</B>  <B>Retrieval</B> Through a Teletypewriter    Experiments
+18. CACM-1601.html 0.34366482
+ <B>parallel</B> processing environment.  Convergence is  insured by extracting the "best <B>information</B>" at
+19. CACM-3169.html 0.34132278
+, <B>information</B> <B>retrieval</B>    3.50 3.70 3.74    CA791002 DB January 16, 1980  4:52 PM    3168 4 3169  3169 4 3169  2965 5 3169  3169 5 3169  3169 5 3169  3169 5 3169        
+20. CACM-2516.html 0.3396688
+        Hierarchical Storage <B>in</B> <B>Information</B> <B>Retrieval</B>    A probabilistic analysis is employed to
+21. CACM-1935.html 0.3378923
+.   The search method described is binary <B>in</B> nature   and offers new potential for <B>information</B>
+22. CACM-2519.html 0.32636416
+ <B>retrieval</B> system  is examined.  The problem is analyzed <B>in</B> terms of   psychological and <B>information</B>
+23. CACM-3012.html 0.32482263
+        The Use of an Interactive <B>Information</B> Storage  and <B>Retrieval</B> System <B>in</B> Medical Research
+24. CACM-1681.html 0.31271085
+        Easy English,a Language for <B>Information</B>  <B>Retrieval</B> Through a Remote Typewriter Console
+25. CACM-2114.html 0.3120005
+        A Formal System for <B>Information</B> <B>Retrieval</B> from Files    A generalized file structure is
+26. CACM-2175.html 0.30691025
+, <B>in</B> <B>parallel</B>, or <B>in</B> a combination of these  modes.  This paper shows that expression execution
+27. CACM-1830.html 0.30682305
+. J.    <B>information</B> <B>retrieval</B>, direct access memory, data base, inverted list    3.70 4.41    CA
+28. CACM-2865.html 0.29916105
+ aid to proving it correct.  The <B>information</B> <B>in</B> a partial  correctness proof can be used to prove such
+29. CACM-1937.html 0.29438117
+, M. K.  Ellis, M. E.    data display, <B>information</B> <B>retrieval</B>, graphic display,  command languages
+30. CACM-0275.html 0.28660002
+        Dynamic Storage Allocation for an <B>Information</B> <B>Retrieval</B> System    CACM October
+31. CACM-0651.html 0.28660002
+        A Survey of Languages and Systems for <B>Information</B> <B>Retrieval</B>    CACM January, 1962    Grems
+32. CACM-2070.html 0.28660002
+        A Formal System for <B>Information</B> <B>Retrieval</B> from Files    CACM April, 1970    Hsiao, D
+33. CACM-2990.html 0.28351814
+        Effective <B>Information</B> <B>Retrieval</B> Using Term Accuracy    The performance of <B>information</B>
+34. CACM-1675.html 0.27305824
+ November, 1968    Korfhage, R. R.    <B>information</B> <B>retrieval</B>, relevance, indexing, classification
+35. CACM-2645.html 0.27148092
+ its users to provide additional <B>information</B>  about the program written <B>in</B> the first   language and
+36. CACM-2723.html 0.26939452
+ thoroughly examined.  The necessary capabilities of each <B>processor</B>   are defined, as well as
+37. CACM-2497.html 0.26721078
+ "Lock-Unlock" method  of synchronizing processors <B>in</B> a multiprocessor   system usually require
+38. CACM-2307.html 0.2662603
+  environment is then outlined <B>in</B> which clustered  files are searched and <B>information</B> is retrieved
+39. CACM-1846.html 0.26329422
+        On Simulating Networks of <B>Parallel</B> Processes  <B>in</B> Which Simultaneous Events May Occur
+40. CACM-2455.html 0.26295358
+, balanced trees, <B>information</B> storage and <B>retrieval</B>    3.7 3.72 4.49 5.31    CA730819 JB January
+41. CACM-1725.html 0.2572509
+.    associative memories, content-addressed memories,  ordered lists, ordered <B>information</B> <B>retrieval</B>
+42. CACM-1032.html 0.25681505
+        Theoretical Considerations <B>in</B> <B>Information</B> <B>Retrieval</B> Systems    <B>Information</B> storage and
+43. CACM-2631.html 0.25681505
+        An <B>Information</B>-Theoretic Approach to  Text Searching <B>in</B> Direct Access Systems    Using
+44. CACM-1959.html 0.2559755
+        An Interrupt Based Organization for Management <B>Information</B> Systems    A programming
+45. CACM-1359.html 0.25542647
+ data strings is the most complex  processing function <B>in</B> <B>information</B> storage   and <B>retrieval</B>
+46. CACM-2947.html 0.2553496
+ to <B>in</B> teractive bibliographical  search and <B>retrieval</B> systems, but has several   additional
+47. CACM-1236.html 0.2507608
+.  This feature is used <B>in</B> the <B>retrieval</B>  process by leaving the exact sequence of   operations
+48. CACM-2711.html 0.2507608
+        A Vector Space Model for Automatic Indexing    <B>In</B> a document <B>retrieval</B>, or other pattern
+49. CACM-1747.html 0.24959369
+ concern the reading of   a time-of-day clock,  the synchronization of <B>parallel</B>  processes, protection <B>in</B>
+50. CACM-1613.html 0.24941622
+        One-Pass Compilation of Arithmetic Expressions for a <B>Parallel</B> <B>Processor</B>    Under the
+51. CACM-0239.html 0.24565716
+        Inefficiency of the Use of Boolean Functions  for <B>Information</B> <B>Retrieval</B> Systems    CACM
+52. CACM-0292.html 0.24565716
+        An <B>Information</B> <B>Retrieval</B> Language for Legal Studies    CACM September, 1961    Kehl, W. B
+53. CACM-1831.html 0.24565716
+        A Comment on Optimal Tree Structures    CACM October, 1969    Stanfel, L. E.    <B>information</B>
+54. CACM-2532.html 0.24565716
+, substring, hashing, <B>information</B> storage and <B>retrieval</B>    3.74 5.30 5.5    CA730307 JB January
+55. CACM-2561.html 0.24531764
+        A Heuristic Approach to Inductive Inference <B>in</B> Fact <B>Retrieval</B> Systems    Heuristic
+56. CACM-2032.html 0.23892593
+,   and their relation to trees studied <B>in</B> the past is explainedesults for the   probability
+57. CACM-2493.html 0.23892593
+, <B>information</B> <B>retrieval</B>    3.73    CA730607 JB January 23, 1978  2:14 PM    2455 4 2493  2493 4 2493  2889 4 2493  2968 4 2493  2388 5 2493  2493 5 2493  2493 5 2493  2493 5 2493  2816 5
+58. CACM-1960.html 0.23832633
+        Process Management and Resource Sharing <B>in</B> the Multiaccess System ESOPE    The main design
+59. CACM-2575.html 0.23623443
+        The Best-Match Problem <B>in</B> Document <B>Retrieval</B>    CACM November, 1974    Van Rijsbergen, C. J
+60. CACM-1976.html 0.23291053
+        Multi-attribute <B>Retrieval</B> with Combined Indexes    <B>In</B> this paper a file organization scheme
+61. CACM-2714.html 0.2318515
+2   m <B>in</B> the special case where n=km.    CACM October, 1975    Gavril, F.    <B>parallel</B> processing
+62. CACM-2846.html 0.23022163
+ C-trie, to be used <B>in</B>   <B>information</B> <B>retrieval</B> systems.  It has the same underlying  m-ary tree
+63. CACM-1788.html 0.22707391
+        Toward a General <B>Processor</B> for Programming Languages    Many efforts have been made to
+64. CACM-3134.html 0.22261603
+        The Use of Normal Multiplication Tables  for <B>Information</B> Storage and <B>Retrieval</B>    This
+65. CACM-2896.html 0.22205634
+        An Exercise <B>in</B> Proving <B>Parallel</B> Programs Correct    A <B>parallel</B> program, Dijkstra's on-the
+66. CACM-2160.html 0.22039233
+ attribute based <B>retrieval</B>  is proposed <B>in</B> this paper.  It allows queries   involving arbitrary Boolean
+67. CACM-1367.html 0.21977878
+        Character Structure and Character Parity Sense  for <B>Parallel</B>-by-Bit Data Communication <B>in</B>
+68. CACM-1711.html 0.21719776
+ for programs, and the problem  of using copyrighted material <B>in</B> <B>information</B> storage   and <B>retrieval</B>
+69. CACM-2795.html 0.21719776
+ the <B>information</B> <B>retrieval</B> and  deduction capabilities of the memory model.  The   model encompasses
+70. CACM-1262.html 0.21610773
+ sections of program which are to be executed  <B>in</B> <B>parallel</B>.  The statements are DO TOGETHER   and HOLD
+71. CACM-0440.html 0.20856614
+ ways <B>in</B> which <B>information</B>  utilization for matching may be optimized   are discussed.    CACM November
+72. CACM-1652.html 0.20711954
+ application   to problems <B>in</B> area such as <B>information</B> <B>retrieval</B>, document  classification, computer-aided
+73. CACM-1514.html 0.20635842
+ typical   <B>information</B> <B>retrieval</B> system.    CACM November, 1967    Shumway, R. H.    CA671106 JB February
+74. CACM-1828.html 0.20607825
+        Synchronization <B>in</B> a <B>Parallel</B>-Accessed Data Base    The following problem is considered
+75. CACM-2141.html 0.20479368
+, map storage, <B>information</B> <B>retrieval</B>,  input/output, run coding, data reduction    3.71 3.74    CA
+76. CACM-2543.html 0.20479368
+ retrieving <B>information</B>  <B>in</B> a hash table is described.  The method   is intended to be efficient if
+77. CACM-2412.html 0.2047143
+, J. R.    Hashing, <B>information</B> storage and <B>retrieval</B>,  scatter storage, searching, symbol table
+78. CACM-2552.html 0.2047143
+, 1973    Bays, C.    hash code, open hash, chaining, <B>information</B> <B>retrieval</B>, collision    3.7 4.9    CA
+79. CACM-2781.html 0.2047143
+, randomizing <B>information</B> <B>retrieval</B>    3.7    CA750307 JB January 9, 1978  4:37 PM    2258 4 2781  2319 4 2781  2313 4 2781  2359 4 2781  2437 4 2781  2552 4 2781  2781 4 2781  2860 4 27
+80. CACM-1456.html 0.20312296
+        Storage and <B>Retrieval</B> of Aspects of Meaning <B>in</B> Directed Graph Structures    An experimental
+81. CACM-2623.html 0.20312296
+ maintenance, <B>information</B> <B>retrieval</B>, utility  programs, text compression, coding techniques,   data
+82. CACM-2484.html 0.202765
+ relations and algorithms results <B>in</B> different  <B>information</B> structures, as list, tree, ring,   etc.  Thus
+83. CACM-3135.html 0.20197439
+-dimensional pattern recognition, chemical  structure search, <B>information</B> <B>retrieval</B>, crystal  -structure
+84. CACM-2451.html 0.20110689
+        Design of Tree Structures for Efficient Querying    A standard <B>information</B> <B>retrieval</B>
+85. CACM-2722.html 0.19743586
+, 1975    Bently, J. L.    associative <B>retrieval</B>, binary search trees, key,  attribute, <B>information</B> <B>retrieval</B>
+86. CACM-1108.html 0.19457446
+        Digital Data <B>Processor</B> for Tracking the Partially Illuminated Moon*    A study of lunar
+87. CACM-2377.html 0.19457446
+ <B>information</B>  is an important aspect of a computer utility.  <B>In</B>   a system which uses segmentation
+88. CACM-0406.html 0.19209304
+        The Use of Threaded Lists <B>in</B> Constructing a Combined  ALGOL and Machine-Like Assembly
+89. CACM-1527.html 0.1893306
+  the automatic <B>retrieval</B> of certain segments of   stored <B>information</B>, either explicitly or
+90. CACM-2991.html 0.18778704
+,   clustering, <B>information</B> <B>retrieval</B>, open addressing, open  chaining, buckets, bucket size, shadow buckets
+91. CACM-1680.html 0.18740638
+ as simulation, programming, and  <B>information</B> <B>retrieval</B>.  It is written <B>in</B> FORTRAN   IV (G) for the
+92. CACM-1194.html 0.18609634
+ <B>in</B> mechanizing the ACM Repository.    The main features of the <B>information</B> system are direct  user
+93. CACM-3075.html 0.18597947
+        Fast <B>Parallel</B> Sorting Algorithms    A <B>parallel</B> bucket-sort algorithm is presented  that
+94. CACM-1742.html 0.18540506
+ and parent computer is a key factor <B>in</B> display <B>processor</B> design.    CACM June, 1968    Myer, T. H
+95. CACM-1530.html 0.18354164
+        The ML/I Macro <B>Processor</B>    A general purpose macro <B>processor</B> called ML/I  is described
+96. CACM-2388.html 0.18319824
+ binary trees grown  with a form of the Algorithm Quicksort <B>in</B> an   average time proportional to log n
+97. CACM-2650.html 0.18319824
+ applications <B>in</B> <B>information</B>  <B>retrieval</B>, artificial intelligence, and spelling   correction systems
+98. CACM-2746.html 0.18319824
+  search, <B>information</B> <B>retrieval</B>, text-editing,   finite state machines, computational complexity
+99. CACM-2895.html 0.18130824
+        A Language for Formal Problem Specification    A language for specifying the <B>in</B> tended
+100. CACM-2266.html 0.18030451
+        A Highly <B>Parallel</B> Algorithm for Approximating  All Zeros of a Polynomial with Only Real
+
